@@ -1,0 +1,10 @@
+C:\Users\user1\Desktop\FileMove\FileMove\FileMove\bin\Debug\FileMove.exe.config
+C:\Users\user1\Desktop\FileMove\FileMove\FileMove\bin\Debug\FileMove.exe
+C:\Users\user1\Desktop\FileMove\FileMove\FileMove\bin\Debug\FileMove.pdb
+C:\Users\user1\Desktop\FileMove\FileMove\FileMove\obj\Debug\FileMove.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\FileMove\FileMove\FileMove\obj\Debug\FileMove.Form1.resources
+C:\Users\user1\Desktop\FileMove\FileMove\FileMove\obj\Debug\FileMove.Properties.Resources.resources
+C:\Users\user1\Desktop\FileMove\FileMove\FileMove\obj\Debug\FileMove.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\FileMove\FileMove\FileMove\obj\Debug\FileMove.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\FileMove\FileMove\FileMove\obj\Debug\FileMove.exe
+C:\Users\user1\Desktop\FileMove\FileMove\FileMove\obj\Debug\FileMove.pdb
